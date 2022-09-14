@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/nav_courses_info" android:title="Courses Info" android:enabled="true" android:icon="@drawable/course_icon"/>
+    <item android:icon="@drawable/my_course" android:enabled="true" android:title="My Courses" android:id="@+id/nav_courses_my"/>
+</menu>

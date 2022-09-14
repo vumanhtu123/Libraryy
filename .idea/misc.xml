@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable-v24/bg_main.xml" value="0.30833333333333335" />
+        <entry key="app/src/main/res/drawable-v24/ic_next.xml" value="0.31145833333333334" />
+        <entry key="app/src/main/res/layout/activity_chitiet_monhoc.xml" value="0.2558876811594203" />
+        <entry key="app/src/main/res/layout/activity_dangki_item.xml" value="0.2558876811594203" />
+        <entry key="app/src/main/res/layout/activity_fragment_one.xml" value="0.2558876811594203" />
+        <entry key="app/src/main/res/layout/activity_fragment_three.xml" value="0.2558876811594203" />
+        <entry key="app/src/main/res/layout/activity_fragment_two.xml" value="0.2558876811594203" />
+        <entry key="app/src/main/res/layout/activity_ki_item.xml" value="0.2558876811594203" />
+        <entry key="app/src/main/res/layout/activity_kyhoc_item_dropspn.xml" value="0.2558876811594203" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.2558876811594203" />
+        <entry key="app/src/main/res/layout/activity_mycourse_item.xml" value="0.2558876811594203" />
+        <entry key="app/src/main/res/layout/activity_ph18579_courses.xml" value="0.2558876811594203" />
+        <entry key="app/src/main/res/layout/activity_ph18579_dang_ki_mon_hoc.xml" value="0.2558876811594203" />
+        <entry key="app/src/main/res/layout/activity_ph18579_google_maps.xml" value="0.1578125" />
+        <entry key="app/src/main/res/layout/activity_ph18579_login.xml" value="0.2558876811594203" />
+        <entry key="app/src/main/res/layout/activity_ph18579_main.xml" value="0.2558876811594203" />
+        <entry key="app/src/main/res/layout/activity_ph18579_maps.xml" value="0.1578125" />
+        <entry key="app/src/main/res/layout/activity_ph18579_mon_hoc_da_dang_ki.xml" value="0.2558876811594203" />
+        <entry key="app/src/main/res/layout/activity_ph18579_news.xml" value="0.2558876811594203" />
+        <entry key="app/src/main/res/layout/activity_ph18579_register.xml" value="0.2558876811594203" />
+        <entry key="app/src/main/res/layout/activity_ph18579_screen.xml" value="0.2558876811594203" />
+        <entry key="app/src/main/res/layout/activity_ph18579_share_face_book.xml" value="0.2558876811594203" />
+        <entry key="app/src/main/res/layout/activity_ph18579_web_view.xml" value="0.2558876811594203" />
+        <entry key="app/src/main/res/layout/dialog_delete.xml" value="0.2558876811594203" />
+        <entry key="app/src/main/res/layout/fragment_ph18579__maps.xml" value="0.14375" />
+        <entry key="app/src/main/res/menu/menu_navigation.xml" value="0.3098958333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
